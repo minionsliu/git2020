@@ -1,0 +1,2 @@
+1.这是一个bb.txt文件,通过touch文件名创建:wd
+zhejjssj
